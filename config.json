@@ -1,7 +1,7 @@
 {
   "optimization_mode": true,
-  "start_date": "2026-07-21",
-  "end_date": "2026-08-19",
+  "start_date": "2026-08-01",
+  "end_date": "2026-10-01",
   "initial_balance": 1000.0,
   "risk": {
     "type": "percent",
